@@ -1,3 +1,4 @@
 .env
 .cache
+.idea
 spotipy_app_dev/spotipy/base/dev_only.py
